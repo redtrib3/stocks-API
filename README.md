@@ -1,6 +1,6 @@
-# stocks-API
+# Stocks-API
 
-GET the real time Stocks/Crypto Information using this API
+GET the real time Stocks/Crypto Information using this [API](https://stock-dapi.herokuapp.com) .
 
 
 ## Documentation [/docs](https://stock-dapi.herokuapp.com/docs) :
