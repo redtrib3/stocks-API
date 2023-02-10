@@ -1,5 +1,7 @@
-[![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://ykmofv.deta.dev/)
+[![Deploy](https://button.deta.dev/1/svg)](https://www.deta.sh/) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 # Stocks-API
+
 
 GET the real time Stocks/Crypto Information using this [API](https://ykmofv.deta.dev/) .
 
