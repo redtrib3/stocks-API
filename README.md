@@ -11,3 +11,5 @@ GET the real time Stocks/Crypto Information using this [API](https://ykmofv.deta
 
 ![FastAPI_logo](https://user-images.githubusercontent.com/68897241/192091105-9411e961-6e57-484a-951d-865224450fbe.png)
 
+old website: ~~https://stock-dapi.herokuapp.com/docs~~
+new website: ~~https://ykmofv.deta.dev/~~
